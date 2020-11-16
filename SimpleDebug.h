@@ -2,7 +2,6 @@
 
 // Created:   gpmaxx   2020-02-08
 // Modified:  gpmaxx   2020-11-14 - added dTrace, renamed
-//
 
 #ifndef SIMPLE_DEBUG_H
 #define SIMPLE_DEBUG_H
